@@ -1,0 +1,8 @@
+ui:
+  title: TodoX Desktop
+
+spring:
+  jmx:
+    enabled: false
+  main:
+    web-application-type: none
